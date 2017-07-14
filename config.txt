@@ -1,0 +1,5 @@
+/Users/ohto/Dropbox/curling/params/
+/Users/ohto/Dropbox/curling/params_out/
+/Users/ohto/Documents/data/curling/dclog/
+/Users/ohto/Documents/data/curling/shotlog/
+/Users/ohto/Documents/data/curling/imagelog/
