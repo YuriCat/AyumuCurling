@@ -67,7 +67,7 @@ const std::string MY_COACH = "KatsukiOhto";
 
 // 接続用プロフィール
 const std::string MY_ID = "ayumu";
-const std::string MY_PASSWORD = "w1a0l0k3";
+const std::string MY_PASSWORD = "walkpass";
 
 #ifdef FOR_NETWORK
 const std::string SERVER_IP = "130.153.151.129";
